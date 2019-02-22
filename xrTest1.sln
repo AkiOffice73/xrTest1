@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xrTest1", "xrTest1.csproj", "{C90CF290-DA17-D1E1-98A8-0D40069074C3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xrTest1.Editor", "xrTest1.Editor.csproj", "{750BFB5F-F131-A9A0-4CB5-2748F8772285}"

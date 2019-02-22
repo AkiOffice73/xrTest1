@@ -85,6 +85,7 @@ c63db43c730fa2cbb8ca07de15898cb6 UnityEngine.UI.dll:UnityEngine.UI.Toggle
 f61c0793411f10cf5fbfa1473fef5ef2 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 86d36c43c53541d667100dc90b89cfba UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 1b8c02d0aa82fbf036a2b9b2d713eec3 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.dragon
 71778c9b45c50a65b865c5bc42204043 Assembly-CSharp.dll:.NoiseEffect
 96fa541852811a74a7726ae73c544810 Assembly-CSharp.dll:.GvrArmModel
 03bbed44bf0809da9eb453e702673301 Assembly-CSharp.dll:.GvrAudioRoom
@@ -194,6 +195,8 @@ a9e1c36c671666e79706791e556d5100 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehav
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
 b3432dfe180f02232d7612fb366593d3 Assembly-UnityScript.dll:.ColorCorrectionLut
 cc897e31f90a455da1ad6fffc97043f1 Assembly-UnityScript.dll:.AntialiasingAsPostEffect
+0f943198429c93609e841212d11b4efc Assembly-CSharp.dll:.UserBall
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.BulletMove
 03f12694d8815c5c1846b514244afecc Assembly-CSharp.dll:.GvrAllEventsTrigger
 82c4df0703ee0c74fec7eda7f1754686 Assembly-CSharp.dll:.GvrAudioListener
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GvrPointerManager
@@ -326,6 +329,3 @@ a9e1c36c671666e79706791e556d5100 Vuforia.UnityExtensions.dll:Vuforia.VuMarkBehav
 3d1b89310e77c34bc0c8d7132231345c Vuforia.UnityExtensions.dll:Vuforia.WireframeBehaviour
 05524b8f659e7bfe5756d1335fec24ba Vuforia.UnityExtensions.dll:Vuforia.WireframeTrackableEventHandler
 15bea26698002c6c4a3087131232ce5c Vuforia.UnityExtensions.dll:Vuforia.WordBehaviour
-0f943198429c93609e841212d11b4efc Assembly-CSharp.dll:.UserBall
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.BulletMove
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.dragon
